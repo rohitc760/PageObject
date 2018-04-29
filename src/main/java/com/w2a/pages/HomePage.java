@@ -9,7 +9,7 @@ public class HomePage extends Page {
 	
 	
 
-	//this is home page
+	//this is home page with jenkins n git
 	public void goToSupport(){
 		
 		driver.findElement(By.cssSelector(".signing>a:nth-child(2)")).click();
